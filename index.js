@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Urban Roleplay","Bot oficial"];
+const statusMessages = ["Bot oficial"];
 
 
 let currentIndex = 0;
