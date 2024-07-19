@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot oficial"];
+const statusMessages = ["Jugando a TheCronos"];
 
 
 let currentIndex = 0;
