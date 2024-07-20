@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing TheCronos <a:Konosuba_Aqua4:1264299798832353291>"];
+const statusMessages = ["Playing TheCronos👑"];
 
 
 let currentIndex = 0;
