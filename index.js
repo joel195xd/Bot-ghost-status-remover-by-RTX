@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dark Network"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
