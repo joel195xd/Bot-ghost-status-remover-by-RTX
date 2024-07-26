@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing TheCronos👑"];
+const statusMessages = ["Dark Network"];
 
 
 let currentIndex = 0;
