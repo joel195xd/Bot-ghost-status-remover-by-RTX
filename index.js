@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Cronos"];
+const statusMessages = ["Ekko Network Store"];
 
 
 let currentIndex = 0;
