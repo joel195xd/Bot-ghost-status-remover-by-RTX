@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PekaGuard"];
+const statusMessages = ["Gestionando..."];
 
 
 let currentIndex = 0;
