@@ -44,7 +44,6 @@ const channelId = '';
 
 async function login() {
   try {
-    await client.login(process.env.TOKEN);
     await client.login(process.env.TOKEN2);
 
     console.log(`\x1b[36m%s\x1b[0m`, `|    🐇 Logged in as ${client.user.tag}`);
